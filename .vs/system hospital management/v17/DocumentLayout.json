@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Karimi\\source\\repos\\system hospital management\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E941CD-5BF1-48DC-9623-4567AA0F283A}|system hospital management\\system hospital management.vcxproj|C:\\Users\\Karimi\\source\\repos\\system hospital management\\system hospital management\\Person.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B8E941CD-5BF1-48DC-9623-4567AA0F283A}|system hospital management\\system hospital management.vcxproj|solutionrelative:system hospital management\\Person.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E941CD-5BF1-48DC-9623-4567AA0F283A}|system hospital management\\system hospital management.vcxproj|C:\\Users\\Karimi\\source\\repos\\system hospital management\\system hospital management\\Patient.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B8E941CD-5BF1-48DC-9623-4567AA0F283A}|system hospital management\\system hospital management.vcxproj|solutionrelative:system hospital management\\Patient.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E941CD-5BF1-48DC-9623-4567AA0F283A}|system hospital management\\system hospital management.vcxproj|C:\\Users\\Karimi\\source\\repos\\system hospital management\\system hospital management\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B8E941CD-5BF1-48DC-9623-4567AA0F283A}|system hospital management\\system hospital management.vcxproj|solutionrelative:system hospital management\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E941CD-5BF1-48DC-9623-4567AA0F283A}|system hospital management\\system hospital management.vcxproj|C:\\Users\\Karimi\\source\\repos\\system hospital management\\system hospital management\\hospital.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B8E941CD-5BF1-48DC-9623-4567AA0F283A}|system hospital management\\system hospital management.vcxproj|solutionrelative:system hospital management\\hospital.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E941CD-5BF1-48DC-9623-4567AA0F283A}|system hospital management\\system hospital management.vcxproj|C:\\Users\\Karimi\\source\\repos\\system hospital management\\system hospital management\\Doctor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B8E941CD-5BF1-48DC-9623-4567AA0F283A}|system hospital management\\system hospital management.vcxproj|solutionrelative:system hospital management\\Doctor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E941CD-5BF1-48DC-9623-4567AA0F283A}|system hospital management\\system hospital management.vcxproj|C:\\Users\\Karimi\\source\\repos\\system hospital management\\system hospital management\\appointment.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B8E941CD-5BF1-48DC-9623-4567AA0F283A}|system hospital management\\system hospital management.vcxproj|solutionrelative:system hospital management\\appointment.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E941CD-5BF1-48DC-9623-4567AA0F283A}|system hospital management\\system hospital management.vcxproj|C:\\Users\\Karimi\\source\\repos\\system hospital management\\system hospital management\\hospital.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B8E941CD-5BF1-48DC-9623-4567AA0F283A}|system hospital management\\system hospital management.vcxproj|solutionrelative:system hospital management\\hospital.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E941CD-5BF1-48DC-9623-4567AA0F283A}|system hospital management\\system hospital management.vcxproj|C:\\Users\\Karimi\\source\\repos\\system hospital management\\system hospital management\\Person.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B8E941CD-5BF1-48DC-9623-4567AA0F283A}|system hospital management\\system hospital management.vcxproj|solutionrelative:system hospital management\\Person.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E941CD-5BF1-48DC-9623-4567AA0F283A}|system hospital management\\system hospital management.vcxproj|C:\\Users\\Karimi\\source\\repos\\system hospital management\\system hospital management\\appointment.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B8E941CD-5BF1-48DC-9623-4567AA0F283A}|system hospital management\\system hospital management.vcxproj|solutionrelative:system hospital management\\appointment.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E941CD-5BF1-48DC-9623-4567AA0F283A}|system hospital management\\system hospital management.vcxproj|C:\\Users\\Karimi\\source\\repos\\system hospital management\\system hospital management\\Doctor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B8E941CD-5BF1-48DC-9623-4567AA0F283A}|system hospital management\\system hospital management.vcxproj|solutionrelative:system hospital management\\Doctor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8E941CD-5BF1-48DC-9623-4567AA0F283A}|system hospital management\\system hospital management.vcxproj|C:\\Users\\Karimi\\source\\repos\\system hospital management\\system hospital management\\Patient.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B8E941CD-5BF1-48DC-9623-4567AA0F283A}|system hospital management\\system hospital management.vcxproj|solutionrelative:system hospital management\\Patient.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Doctor.cpp",
+              "DocumentMoniker": "C:\\Users\\Karimi\\source\\repos\\system hospital management\\system hospital management\\Doctor.cpp",
+              "RelativeDocumentMoniker": "system hospital management\\Doctor.cpp",
+              "ToolTip": "C:\\Users\\Karimi\\source\\repos\\system hospital management\\system hospital management\\Doctor.cpp",
+              "RelativeToolTip": "system hospital management\\Doctor.cpp",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-02T19:20:30.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\Karimi\\source\\repos\\system hospital management\\system hospital management\\main.cpp",
+              "RelativeDocumentMoniker": "system hospital management\\main.cpp",
+              "ToolTip": "C:\\Users\\Karimi\\source\\repos\\system hospital management\\system hospital management\\main.cpp",
+              "RelativeToolTip": "system hospital management\\main.cpp",
+              "ViewState": "AQIAALYAAAAAAAAAAAAAAE0AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-02T16:25:01.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Patient.cpp",
+              "DocumentMoniker": "C:\\Users\\Karimi\\source\\repos\\system hospital management\\system hospital management\\Patient.cpp",
+              "RelativeDocumentMoniker": "system hospital management\\Patient.cpp",
+              "ToolTip": "C:\\Users\\Karimi\\source\\repos\\system hospital management\\system hospital management\\Patient.cpp",
+              "RelativeToolTip": "system hospital management\\Patient.cpp",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAtwDwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-02T16:20:14.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Person.cpp",
+              "DocumentMoniker": "C:\\Users\\Karimi\\source\\repos\\system hospital management\\system hospital management\\Person.cpp",
+              "RelativeDocumentMoniker": "system hospital management\\Person.cpp",
+              "ToolTip": "C:\\Users\\Karimi\\source\\repos\\system hospital management\\system hospital management\\Person.cpp",
+              "RelativeToolTip": "system hospital management\\Person.cpp",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAAoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-02T16:18:00.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "hospital.cpp",
+              "DocumentMoniker": "C:\\Users\\Karimi\\source\\repos\\system hospital management\\system hospital management\\hospital.cpp",
+              "RelativeDocumentMoniker": "system hospital management\\hospital.cpp",
+              "ToolTip": "C:\\Users\\Karimi\\source\\repos\\system hospital management\\system hospital management\\hospital.cpp",
+              "RelativeToolTip": "system hospital management\\hospital.cpp",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-02T16:17:33.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "hospital.h",
+              "DocumentMoniker": "C:\\Users\\Karimi\\source\\repos\\system hospital management\\system hospital management\\hospital.h",
+              "RelativeDocumentMoniker": "system hospital management\\hospital.h",
+              "ToolTip": "C:\\Users\\Karimi\\source\\repos\\system hospital management\\system hospital management\\hospital.h",
+              "RelativeToolTip": "system hospital management\\hospital.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-02T16:05:05.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Person.h",
+              "DocumentMoniker": "C:\\Users\\Karimi\\source\\repos\\system hospital management\\system hospital management\\Person.h",
+              "RelativeDocumentMoniker": "system hospital management\\Person.h",
+              "ToolTip": "C:\\Users\\Karimi\\source\\repos\\system hospital management\\system hospital management\\Person.h",
+              "RelativeToolTip": "system hospital management\\Person.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-02T16:11:06.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Patient.h",
+              "DocumentMoniker": "C:\\Users\\Karimi\\source\\repos\\system hospital management\\system hospital management\\Patient.h",
+              "RelativeDocumentMoniker": "system hospital management\\Patient.h",
+              "ToolTip": "C:\\Users\\Karimi\\source\\repos\\system hospital management\\system hospital management\\Patient.h",
+              "RelativeToolTip": "system hospital management\\Patient.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-02T16:06:48.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Doctor.h",
+              "DocumentMoniker": "C:\\Users\\Karimi\\source\\repos\\system hospital management\\system hospital management\\Doctor.h",
+              "RelativeDocumentMoniker": "system hospital management\\Doctor.h",
+              "ToolTip": "C:\\Users\\Karimi\\source\\repos\\system hospital management\\system hospital management\\Doctor.h",
+              "RelativeToolTip": "system hospital management\\Doctor.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-02T16:05:57.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appointment.cpp",
+              "DocumentMoniker": "C:\\Users\\Karimi\\source\\repos\\system hospital management\\system hospital management\\appointment.cpp",
+              "RelativeDocumentMoniker": "system hospital management\\appointment.cpp",
+              "ToolTip": "C:\\Users\\Karimi\\source\\repos\\system hospital management\\system hospital management\\appointment.cpp",
+              "RelativeToolTip": "system hospital management\\appointment.cpp",
+              "ViewState": "AQIAAJAAAAAAAAAAAAAtwJsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-30T13:58:39.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appointment.h",
+              "DocumentMoniker": "C:\\Users\\Karimi\\source\\repos\\system hospital management\\system hospital management\\appointment.h",
+              "RelativeDocumentMoniker": "system hospital management\\appointment.h",
+              "ToolTip": "C:\\Users\\Karimi\\source\\repos\\system hospital management\\system hospital management\\appointment.h",
+              "RelativeToolTip": "system hospital management\\appointment.h",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-30T13:58:27.053Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
